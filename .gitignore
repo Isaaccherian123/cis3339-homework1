@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+
+# NOTE: .env is intentionally NOT ignored. The assignment requires the real
+# local .env file to be committed. It contains no passwords or secrets.
